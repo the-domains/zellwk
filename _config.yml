@@ -1,0 +1,28 @@
+name: zellwk
+favicon: null
+layout_spectrum: 0.3248979870695621
+typography_spectrum: 0.26651263190433383
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.29007443017326295
+  lightness: 0.8475256552919745
+  saturation: 0.6955896236468107
+  rhythmicContrast: 0.921677045756951
+purpose: []
